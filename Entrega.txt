@@ -9,7 +9,7 @@ Nome completo e RM de todos os integrantes:
 Modalidade: Trio
 
 Link do repositório GitHub:
-https://github.com/KaiqueKai/goodwe-intelligent-chatbot
+https://github.com/KaiqueKai/Goodwe-intelligent-chatbot
 
 Link do vídeo:
 https://www.youtube.com/watch?v=nQFDzpfpecE
